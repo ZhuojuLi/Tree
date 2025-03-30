@@ -1,4 +1,4 @@
-# Tree
+# xgboost
 ![image](https://github.com/user-attachments/assets/202538f6-996d-4629-b1cb-b41e91ca2e6c)
 ![image](https://github.com/user-attachments/assets/c693e873-e138-4cfd-a6c6-54db9d01c859)
 ![image](https://github.com/user-attachments/assets/5daaa741-2217-4e73-8b02-9ddb886e644d)
