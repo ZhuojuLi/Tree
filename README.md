@@ -6,3 +6,7 @@
 ![image](https://github.com/user-attachments/assets/042bdd0f-5836-440a-8f55-40de5629f39d)
 ![image](https://github.com/user-attachments/assets/89cbe0f1-67bc-4cc4-bd17-e62a08eddc24)
 ![image](https://github.com/user-attachments/assets/969ce7a5-e2d9-4a4f-aa71-761ab3ae1854)
+# random forest
+![image](https://github.com/user-attachments/assets/f9d5dd45-be5b-4522-a7ce-51d6ae6ed28c)
+![image](https://github.com/user-attachments/assets/78cc0f69-9835-4387-98c5-cda0e94a1647)
+![image](https://github.com/user-attachments/assets/04094399-2435-4391-949f-e13203536e6d)
